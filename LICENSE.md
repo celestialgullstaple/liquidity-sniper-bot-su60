@@ -1,4 +1,4 @@
-# 
+# new liquidity sniper bot | dex-sniping + pump-detection offers the most advanced liquidity sniper bot, with dex-sniping and pump-detection. Ideal for professional MEV and sniper
 
 
 
